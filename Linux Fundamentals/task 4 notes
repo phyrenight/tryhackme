@@ -1,0 +1,10 @@
+01 Jan 2021
+
+First terminal commands
+echo
+outputs the text that you provide it.
+-ex. typing "echo 'hi'" will ouput hi
+
+whoami
+will output current username of the individual logged in
+
