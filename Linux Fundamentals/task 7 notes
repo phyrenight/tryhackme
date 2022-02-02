@@ -1,0 +1,11 @@
+2 Feb 2022
+shell operators
+
+&
+- runs a command in the background of the termina
+
+&&
+- alows you to combine multiple commands together on one line
+
+>
+
