@@ -1,0 +1,16 @@
+1 Feb 2022
+additional linux commands
+ls
+-list all the items in a directory
+
+cd
+- is used to navigate to different directories
+
+cat
+- cat is short for concatenate
+- is used to output contents of files
+
+pwd
+- stands for print working directory
+-prints the current directory you are in 
+
