@@ -1,0 +1,14 @@
+02 Feb 2022
+More Linux commands
+find
+- command with tons of usage
+- can search in every folder in the current directory
+- * can be used as a wildcard in a search
+- ex find -name *.txt
+- ex find -name app.*
+
+grep
+- can be used to search a files contents for specific things
+-ex. grep 'at' word.txt
+- output from grep can be direct to another command, use, or to a file
+
