@@ -1,0 +1,33 @@
+04 Feb 2022
+common commandline commands:
+
+touch
+ - creates a blank file
+ - ex. touch new_file
+
+mkdir
+ - creates a new directory (folder)
+ - mkdir stands for make directory
+ - ex. mkdir new_folder
+
+
+cp
+ - is used to copy a file or folder
+ - cp stands for copy
+ - ex. cp old_file new_copy
+
+mv
+ - is used to move a file to another location
+ - mv stands for move
+ - ex. mv file /home
+ - can also be used to rename a file
+ - mv old_file old_file_new_name
+
+file
+ - used to determine a file type
+ - ex. file text_file
+
+rm
+ - used to remove files or folders
+ - short for remove
+ - ex. rm old_file
