@@ -1,0 +1,16 @@
+03 Feb 2022
+flag and switches
+- identified by a hyphen and letter or word behind it
+- flags and switches add functionality to  commands
+ls -a
+- this shows all hidden files in a directory
+- -a is short for --all
+
+--help can be used to find more information about a command
+- to use "command_name" --help
+
+man
+- also known as the man pages
+- using this man and the name of the command will bring up the manual page for that command.
+- ex. man ls
+
