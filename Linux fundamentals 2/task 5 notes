@@ -1,0 +1,13 @@
+06 Feb 2022
+task 5:Permissions 101
+ls -lh
+- displays a list of files and shows each files permissions
+
+The permisions are the first couple of characters in each row ( about 10)
+they are read, write and execute
+
+su
+-command allows you to switch between users
+- need to know the user you are switching to and the user's password
+
+
