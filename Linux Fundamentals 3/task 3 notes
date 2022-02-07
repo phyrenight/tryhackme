@@ -1,0 +1,22 @@
+07 Feb 2022
+task 3 Terminal Text Editors
+
+nano
+- text editor you can use on the commandline 
+- ex. nano filename
+- all files in linux fundamentals have been made using nano
+- use ctrl X to exit and follow the prompts at the bottom above the commands
+- features included:
+  -- searching for text
+  -- copying and pasting
+  -- jumping to a line number
+  -- finding out what line a number you are on 
+
+
+VIM
+- more advanced editor than nano
+- is customisable
+- has syntax highlighting
+- works on all terminals
+ -- nano does not work on every terminal
+
