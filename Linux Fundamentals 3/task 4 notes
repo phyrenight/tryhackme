@@ -1,0 +1,11 @@
+07 Feb 2022
+task 4 General/Useful Utilities
+wget
+- used to download files
+ -- does this over http
+- needs http address to download file
+
+scp
+- known as secure copy
+- a secure way to copy files
+- use ssh to transfer files between computers

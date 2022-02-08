@@ -1,0 +1,8 @@
+4 Feb 2022
+Linux permissions
+permissions are what give are deny a user access to a file or folder
+To view permissions in a directory use -l flag with ls
+ex. ls -l
+to switch between a user use su command
+-ex. su user
+
