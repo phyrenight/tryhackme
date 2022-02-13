@@ -1,0 +1,31 @@
+13 Feb 2022
+Processes 101
+- processes  - programs that run on your computer
+ -- are managed by the kernel
+ -- each has an ID, this is known as a PID
+
+ps
+-used to view a list of running processes
+- displays other useful information such as 
+  -- a processes status code
+  -- session that is running
+  -- cpu time usage
+  -- name of program
+-- to view processes run by other uses use ps aux
+
+top
+- used to see the top 5 running processes
+- refreshes every 10 seconds
+
+kill
+- used to kill a process
+- to kill a process use kill and the process PID
+- ex. kill 1337
+- other processes to kill a process
+ -- sigterm
+   -- does some cleanup then kills the process
+ -- sigkill
+   -- kills a process, no cleanup
+ -- sigstop
+   stops/suspend a process
+
