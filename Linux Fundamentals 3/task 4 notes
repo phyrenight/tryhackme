@@ -9,3 +9,8 @@ scp
 - known as secure copy
 - a secure way to copy files
 - use ssh to transfer files between computers
+
+python3 httpServer
+- lets you host a server
+- python comes pre-installed on ubuntu
+- to run type "python3 -m http.server
