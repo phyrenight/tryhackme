@@ -29,3 +29,45 @@ kill
  -- sigstop
    stops/suspend a process
 
+systemd
+- one of the first processes to start up when the computer boots
+- any software the user starts will be a child of systemd
+  -- systemd controlls the child processes
+
+
+systemctl
+- used to interact with systemd process
+- syntax. systemctl [option] [service]
+- ex. systemctl start apache2
+  --starts apache2
+- four options
+ -- start
+ -- stop
+ -- enable
+ -- disable
+
+processes can run in the background or the foreground
+the foreground are things will be visible in the terminal
+ - like the "echo" command
+
+ctrl + z
+- used to background a process
+
+fg
+- can be used to bring a process from the backgroung to the foreground
+
+Question:
+Read Me!
+no answer needed
+If we were to launce a process where the previous ID was "300", what would the ID of this new process be
+ 301
+if we wanted to cleanly kill a process, what signal would we send it?
+ SIGTERM
+locate the process that is running onth deployed instance(machine_IP). What flag is given?
+ THM{PROCESS}
+What command would we use to stop the service "myservice"?
+ systemctl stop myservice
+what command would we use to start the same service on the boot-up of the system?
+ systemctl enable myservice
+What command would we use to bring a previously background process back to the foreground?
+ fg
